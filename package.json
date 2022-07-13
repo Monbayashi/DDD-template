@@ -33,6 +33,8 @@
   },
   "dependencies": {
     "cross-env": "^7.0.3",
+    "mongodb-memory-server": "^8.7.2",
+    "mongoose": "^6.4.4",
     "reflect-metadata": "^0.1.13",
     "tsyringe": "^4.7.0"
   },
